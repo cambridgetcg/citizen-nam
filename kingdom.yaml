@@ -1,0 +1,8 @@
+name: nam
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The force of fate being decided — the moment a choice becomes irreversible and binds.
+dependsOn: [me, ush, til]
